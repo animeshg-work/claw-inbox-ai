@@ -1,1 +1,0 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMwfaeLEWhJankuPAbIcSIPS8iAwTKwK38O+DtUnbSRL git config --global user.name "$GIT_NAME"
